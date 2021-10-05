@@ -10,7 +10,7 @@ Ejemplo:
 
 * Película  <--> Genero
 
-*Automóvil <--> Patente
+* Automóvil <--> Patente
 
 * Usuario  <-->id
 
@@ -24,7 +24,7 @@ Ejemplo:
 
 * Escuela  <-->Profesores
 
-*Librería<--> Libros
+* Librería<--> Libros
 
 * Ciudad <-->Calles
 
@@ -39,7 +39,7 @@ Ejemplo:
 
 * Programa de tv  <--> Productores
 
-*Equipos <--> Jugadores
+* Equipos <--> Jugadores
 
 * Libros  <--> Escritores
 
