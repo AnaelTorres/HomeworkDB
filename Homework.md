@@ -5,19 +5,27 @@
 Una relación uno a uno es un vínculo entre la información de dos tablas donde cada uno solo aparece una vez 
 Ejemplo:
 * Persona <--> Código Postal
+
 * Animal   <--> Raza
+
 * Película  <--> Genero
+
 *Automóvil <--> Patente
+
 * Usuario  <-->id
 
 (uno a muchos):
 Uno a muchos es cuando un único registro de una tabla esta relacionado a varios registros de otras tablas 
 
 Ejemplo:
-* Empresa <-->Productos 
+* Empresa <-->Productos
+
 * País  <--> Provincias
+
 * Escuela  <-->Profesores
+
 *Librería<--> Libros
+
 * Ciudad <-->Calles
 
 (muchos a muchos):
@@ -26,9 +34,13 @@ Es cuando se relacionado mas de un registro de una tabla con otros de otra tabla
 Ejemplo:
 
 * Series <--> Actores 
+
 * Clases <-->Estudiantes
+
 * Programa de tv  <--> Productores
+
 *Equipos <--> Jugadores
+
 * Libros  <--> Escritores
 
 2º: Investigar que es un SGBD (cuales son los más famosos)
