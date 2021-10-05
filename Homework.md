@@ -8,7 +8,7 @@ Ejemplo:
 * Animal   <--> Raza
 * Película  <--> Genero
 *Automóvil <--> Patente
-* Usuario  <-->i
+* Usuario  <-->id
 
 (uno a muchos):
 Uno a muchos es cuando un único registro de una tabla esta relacionado a varios registros de otras tablas 
